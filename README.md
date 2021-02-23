@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/olegandreyev
 [rust]: https://www.rust-lang.org/
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oleg-andreyev&show_icons=true" alt="Octav" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-andreyev&layout=compact" alt="Most used languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oleg-andreyev&show_icons=true" alt="Octav" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-andreyev&layout=compact" alt="Most used languages" /></p>
