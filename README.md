@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [intexsys], [ecentria]
+- 🔭 I’m currently working on [lampa]
 - 🌱 I’m currently learning [rust]
 - 📫 How to reach me: [linkedin], [twitter]
 
-[intexsys]: https://www.intexsys.lv/
-[ecentria]: https://ecentria.com/
+[lampa]: https://www.lampa.lv/
 [linkedin]: https://www.linkedin.com/in/olegandreyev/
 [twitter]: https://twitter.com/olegandreyev
 [rust]: https://www.rust-lang.org/
